@@ -26,7 +26,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Basic knowledge of C# 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Unit 4.x
+Unity 4.x
 
 ## Related Products
 * [Azure Cognitive Services for Developers [Video]](https://www.packtpub.com/application-development/azure-cognitive-services-developers-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552565)
