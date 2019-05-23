@@ -1,0 +1,1 @@
+All resources (a.k.a code, sounds, textures, etc.) are in the Unity Package files. To install the package into your Unity project, just double click the package.
